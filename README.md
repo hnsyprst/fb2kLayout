@@ -6,10 +6,10 @@ My layout for Foobar2000. Uploaded because I just accidentally deleted my fb2k f
 
 ## Installation
 
-1. Download the latest version of foobar
-2. Find your installed foobar folder, copy the contents of fb2kLayout/components into /components/.
-3. Add fb2kLayout.fth inside the themes folder.
-4. Start foobar.  File -> Preferences -> Display -> Default User Interface -> Import Theme -> fb2kLayout.fth
+1. Download the latest version of Foobar2000
+2. Find your installed Foobar folder, copy the contents of fb2kLayout/components into /components/
+3. Copy fb2kLayout.fth into /themes/
+4. Start Foobar.  File -> Preferences -> Display -> Default User Interface -> Import Theme -> fb2kLayout.fth
 
 ## TODO (one day)
 
